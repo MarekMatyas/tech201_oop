@@ -1,2 +1,2 @@
 # tech201_oop
-OOP
+## Introduction to OOP (Object-oriented programming)
