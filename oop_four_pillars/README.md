@@ -2,6 +2,8 @@
 
 Object-oriented programming is a **programming paradigm** that provides a means of structuring programs so that properties and behaviours are bundled into individual **objects**.
 
+These objects contain data (attributes) and behaviour (methods) and interact with each other to accomplish tasks.
+
 For instance, an object could represent a person with properties like a name, age, and address and behaviors such as walking, talking, breathing, and running.
 
 
